@@ -1,6 +1,8 @@
 # Deep_Interpolation_Clustering
 This is the repo for the implementation of paper 'Identifying acute illness phenotypes via deep temporal interpolation and clustering network on physiologic signatures'.
 
+![image](https://github.com/Prisma-pResearch/Deep_Interpolation_Clustering/assets/31426497/ee517db4-4990-400b-b4c3-77971124ec8e)
+
 ## Prerequisites
 * torch <br />
 * tensorboardX <br />
